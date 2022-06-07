@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Jun, 2022, 8:38:59 PM
+    Author     : fwcbn
+*/
+
+.bg-1{
+    background: linear-gradient(45deg, $bg1, $bg2); ;
+    height: 100vh;
+    .logo-white img{ width: 15%;
+    margin-top: 11px;
+    margin-left: 24px;
+}
+}
